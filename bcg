@@ -1,0 +1,8 @@
+hello world this pyhton
+from datetime import datetime
+from datetime import deltatime
+ for x in range (1,100)
+   i = x+1;
+ print ("sum the of number")
+ print(str(datetime.+"%y,%d,%m")
+ 
